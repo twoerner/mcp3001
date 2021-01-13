@@ -1,0 +1,7 @@
+README file for project: mcp3001
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+mcp3001 is a small C program to read and output the 10-bit value read from
+an MCP3001 ADC IC. The MCP3001 IC communicates via an SPI bus.
+
+For any contributions or suggestions, please use the github workflow.
